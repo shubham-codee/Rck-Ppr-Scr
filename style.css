@@ -1,0 +1,14 @@
+.text {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    font-style: italic;
+}
+
+.resText{
+    text-align: center;
+}
+
+.resVisual{
+    text-shadow: 2px 2px 4px black;
+}
